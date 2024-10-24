@@ -20,6 +20,15 @@ Talk-a-tive is a Full Stack Chatting App. Uses Socket.io for real-time communica
 - **Add or Remove Users from Group**: Manage group memberships.
 - **View User Profiles**: Access and view other users' profiles.
 
+## Screenshots
+<img width="1000" alt="1" src="https://github.com/user-attachments/assets/d2971dbc-62ab-4d17-b470-7de7bc1bc8b8">
+
+<img width="1000" alt="2" src="https://github.com/user-attachments/assets/3416b8d7-3a59-416b-b917-889b870a44b1">
+
+<img width="1000" alt="3" src="https://github.com/user-attachments/assets/194c9603-1da7-4160-adde-da0e395513e5">
+
+<img width="1000" alt="4" src="https://github.com/user-attachments/assets/0587b50d-8db4-41b6-9b3f-dba939a1456d">
+
 ## Installation
 
 1. Clone the project
